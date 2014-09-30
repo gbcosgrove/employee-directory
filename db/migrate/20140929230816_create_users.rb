@@ -4,7 +4,6 @@ class CreateUsers < ActiveRecord::Migration
       t.string :name
       t.string :job_title
       t.text :job_description
-      t.string :email
       t.string :phone
       t.string :photo
 
