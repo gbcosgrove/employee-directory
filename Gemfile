@@ -17,6 +17,7 @@ gem 'activeadmin', github: 'activeadmin'
 gem 'carrierwave'
 gem 'rmagick'
 gem 'fog'
+gem 'mini_magick'
 
 gem 'spring',        group: :development
 
